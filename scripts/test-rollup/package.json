@@ -1,0 +1,13 @@
+{
+  "name": "test-rollup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@noir-lang/backend_barretenberg": "^0.23.0",
+    "@noir-lang/noir_js": "^0.23.0",
+    "@noir-lang/noir_wasm": "^0.23.0",
+    "viem": "^2.7.10"
+  }
+}
